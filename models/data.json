@@ -1,0 +1,96 @@
+{
+    "appa": [
+        {
+            "id": "image1",
+            "set": "appa",
+            "title": "Puppy Appa blepping",
+            "url": "./images/appaBlep.jpg"
+        },
+        {
+            "id": "image2",
+            "set": "appa",
+            "title": "Puppy Appa getting a nose boop",
+            "url": "./images/appaBoop.PNG"
+        },
+        {
+            "id": "image3",
+            "set": "appa",
+            "title": "Appa making a confused face",
+            "url": "./images/appaConfused.jpg"
+        },
+        {
+            "id": "image4",
+            "set": "appa",
+            "title": "Appa covered in sand on the beach",
+            "url": "./images/appaBeach.jpg"
+        },
+        {
+            "id": "image5",
+            "set": "appa",
+            "title": "Appa in holiday attire",
+            "url": "./images/appaHoliday.JPG"
+        },
+        {
+            "id": "image6",
+            "set": "appa",
+            "title": "Appa proudly holding a stick",
+            "url": "./images/appaStick.JPG"
+        },
+        {
+            "id": "image7",
+            "set": "appa",
+            "title": "Puppy Appa holding his turtle toy",
+            "url": "./images/appaTurtle.jpg"
+        },
+        {
+            "id": "image8",
+            "set": "appa",
+            "title": "Appa sleeping",
+            "url": "./images/appaSleep.JPG"
+        }
+    ],
+    "notAppa": [
+        {
+            "id": "image9",
+            "set": "notAppa",
+            "title": "The Unfamiliar Garden by Benjamin Percy",
+            "url": "./images/book.JPG"
+        },
+        {
+            "id": "image10",
+            "set": "notAppa",
+            "title": "A Playstation 5 controller",
+            "url": "./images/controller.JPG"
+        },
+        {
+            "id": "image11",
+            "set": "notAppa",
+            "title": "A nautical hourglass",
+            "url": "./images/hourglass.JPG"
+        },
+        {
+            "id": "image12",
+            "set": "notAppa",
+            "title": "A white and blue teapot",
+            "url": "./images/teapot.JPG"
+        },
+        {
+            "id": "image13",
+            "set": "notAppa",
+            "title": "A 10lb dumbbell",
+            "url": "./images/weight.jpg"
+        },
+        {
+            "id": "image14",
+            "set": "notAppa",
+            "title": "A calculator",
+            "url": "./images/calculator.JPG"
+        },
+        {
+            "id": "image15",
+            "set": "notAppa",
+            "title": "A painting of flowers",
+            "url": "./images/painting.JPG"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS601_HW2_Wildman</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/styles.css">
+    <script src="./js/app.js" type="module"></script>
+</head>
+
+<body>
+    <div class="pageContainer">
+        <header>
+            <h1>Appa Picture Locator</h1>
+        </header>
+        <div class="summary">
+            <h2>Oh no! I tripped and dropped all of these photos!</h2>
+            <div class="summary prompt">
+                Many of them are treasured photos of my dog, Appa. Can you please help me find the photos of Appa?
+            </div>
+            <div class="summary instructions">
+                To help, please put all the photos of Appa in the <b>APPA</b> container, and put my other pictures in
+                the <b>NOT APPA</b> container.
+            </div>
+        </div>
+        <div class="taskContainer">
+            <div class="task">
+                <div id="imgContainer"></div>
+            </div>
+            <div id="dropSection">
+                <div id="confirmationMessage" class="message"></div>
+                <div id="zones">
+                    <div class="zoneContainer">APPA
+                        <div id="dropzoneAppa" class="dropzone"></div>
+                    </div>
+                    <div class="zoneContainer">NOT APPA
+                        <div id="dropzoneNotAppa" class="dropzone"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
